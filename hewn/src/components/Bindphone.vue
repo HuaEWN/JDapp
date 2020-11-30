@@ -23,7 +23,7 @@
 export default {
     data(){
         return{
-            phone:'',  //手机号注释
+            phone:'',  //手机号注释qqqqq
             value:'',  //验证码 
         }
     },
