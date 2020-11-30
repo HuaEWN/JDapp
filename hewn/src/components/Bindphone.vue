@@ -42,6 +42,7 @@ export default {
 }
 </script>
 <style scoped>
+/* 添加注释 */
 .app{
     width: 100vw;
     height: 100vh;
